@@ -1,2 +1,9 @@
 folium
 streamlit_folium
+
+pip 
+install 
+streamlit 
+yfinance 
+plotly 
+pandas
